@@ -1,0 +1,2 @@
+float32 target_tilt
+float32 target_pan
