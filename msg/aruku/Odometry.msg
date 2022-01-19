@@ -1,0 +1,3 @@
+float32 ry_coefficient
+float32 fx_coefficient
+float32 ly_coefficient

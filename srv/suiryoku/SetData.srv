@@ -1,5 +1,5 @@
 string mode
----
+sting package_name
 Dribble dribble
 Follow follow
 Kick left_kick
@@ -7,3 +7,5 @@ Kick right_kick
 Move move 
 Pivot pivot 
 Position position 
+---
+int8 status

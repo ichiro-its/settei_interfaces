@@ -1,0 +1,13 @@
+float32 forward_hip_comp_ratio
+float32 dsp_comp_ratio
+float32 period_time
+float32 swing_right_left
+float32 dsp_ratio
+float32 period_comp_ratio
+float32 swing_up_down
+float32 arm_swing_gain
+float32 backward_hip_comp_ratio
+float32 foot_comp_ratio
+float32 foot_height
+float32 move_accel_ratio
+float32 foot_accel_ratio
