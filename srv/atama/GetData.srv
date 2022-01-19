@@ -1,10 +1,9 @@
 string mode
 string package_name
 ---
-Dribble dribble
-Follow follow
-Kick left_kick
-Kick right_kick
-Move move 
-Pivot pivot 
-Position position 
+PanTiltToDistance pan_tilt_to_distance
+Offset offset 
+Limit limit 
+Gain gain 
+Center center 
+PanDistanceToTilt pan_distance_to_tilt

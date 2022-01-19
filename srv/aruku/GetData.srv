@@ -1,10 +1,10 @@
 string mode
 string package_name
 ---
-Dribble dribble
-Follow follow
-Kick left_kick
-Kick right_kick
-Move move 
-Pivot pivot 
-Position position 
+Ratio ratio 
+Offset offset 
+Balance balance 
+PID pid 
+Odometry odometry 
+Kinematic kinematic 
+InitAngles init_angles
