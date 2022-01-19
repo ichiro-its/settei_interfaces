@@ -1,5 +1,5 @@
 string mode
-sting package_name
+string package_name
 PanTiltToDistance pan_tilt_to_distance
 Offset offset 
 Limit limit 
@@ -7,4 +7,4 @@ Gain gain
 Center center 
 PanDistanceToTilt pan_distance_to_tilt
 ---
-int8 status
+string status
