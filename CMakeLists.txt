@@ -17,8 +17,31 @@ find_package(ament_cmake REQUIRED)
 find_package(rosidl_default_generators REQUIRED)
 
 rosidl_generate_interfaces(${PROJECT_NAME}
-  "srv/GetData.srv"
-  "srv/SetData.srv"
+  "srv/aruku/GetData.srv"
+  "srv/aruku/SetData.srv"
+  "srv/atama/GetData.srv"
+  "srv/atama/SetData.srv"
+  "srv/suiryoku/GetData.srv"
+  "srv/suiryoku/SetData.srv"
+  "msg/aruku/Balance.msg"
+  "msg/aruku/InitAngles.msg"
+  "msg/aruku/Kinematic.msg"
+  "msg/aruku/Odometry.msg"
+  "msg/aruku/Offset.msg"
+  "msg/aruku/PID.msg"
+  "msg/aruku/Ratio.msg"
+  "msg/atama/Center.msg"
+  "msg/atama/Gain.msg"
+  "msg/atama/Limit.msg"
+  "msg/atama/Offset.msg"
+  "msg/atama/PanDistanceToTilt.msg"
+  "msg/atama/PanTiltToDistance.msg"
+  "msg/suiryoku/Dribble.msg"
+  "msg/suiryoku/Follow.msg"
+  "msg/suiryoku/Kick.msg"
+  "msg/suiryoku/Move.msg"
+  "msg/suiryoku/Pivot.msg"
+  "msg/suiryoku/Position.msg"
  )
 
 ament_export_dependencies(rosidl_default_runtime)
