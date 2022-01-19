@@ -1,0 +1,2 @@
+float32 pan_offset
+float32 tilt_offset

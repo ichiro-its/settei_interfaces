@@ -1,0 +1,4 @@
+float32 right_limit
+float32 left_limit
+float32 bottom_limit
+float32 top_limit

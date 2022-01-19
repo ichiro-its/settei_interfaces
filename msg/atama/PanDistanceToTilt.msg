@@ -1,0 +1,15 @@
+float32 pan_1_distance_1
+float32 pan_0_distance_2
+float32 pan_1_distance_0
+float32 pan_0_distance_1
+float32 pan_0_distance_0
+float32 pan_1_distance_3
+float32 pan_2_distance_2
+float32 pan_0_distance_3
+float32 pan_3_distance_1
+float32 pan_3_distance_0
+float32 pan_4_distance_0
+float32 pan_2_distance_1
+float32 pan_1_distance_2
+float32 pan_2_distance_0
+float32 pan_0_distance_4

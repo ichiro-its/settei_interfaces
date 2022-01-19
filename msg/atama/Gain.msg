@@ -1,0 +1,4 @@
+float32 pan_d_gain
+float32 tilt_d_gain
+float32 pan_p_gain
+float32 tilt_p_gain

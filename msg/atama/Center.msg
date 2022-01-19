@@ -1,0 +1,2 @@
+float32 pan_center
+float32 tilt_center
